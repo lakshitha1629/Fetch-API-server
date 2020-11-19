@@ -1,11 +1,12 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "name": "Brown Luke",
+    "address": "01 Cordelia Street, Southbane 4101",
+    "status": "active"
+  },
+  {
+    "name": "Brown Luke",
+    "address": "01 Cordelia Street, Southbane 4101",
+    "status": "inactive"
   }
-}
+]
