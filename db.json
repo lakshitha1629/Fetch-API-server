@@ -1,25 +1,15 @@
 {
   "Client": [
+     {
+    "name": "Brown Luke",
+    "address": "01 Cordelia Street, Southbane 4101",
+    "status": "active"
+    },
     {
-    name: 'Brown Luke',
-    address: '01 Cordelia Street, Southbane 4101',
-    status: 'active'
-  },
-  {
-    name: 'Brown Luke',
-    address: '01 Cordelia Street, Southbane 4101',
-    status: 'active'
-  },
-  {
-    name: 'Brown Luke',
-    address: '01 Cordelia Street, Southbane 4101',
-    status: 'inactive'
-  },
-  {
-    name: 'Brown Luke',
-    address: '01 Cordelia Street, Southbane 4101',
-    status: 'active'
-  }
+    "name": "Brown Luke",
+    "address": "01 Cordelia Street, Southbane 4101",
+    "status": "inactive"
+   },
   ],
   "profile": {
     "name": "vviikkii"
