@@ -1,14 +1,11 @@
 {
-  "Client": [
-     {
-    "name": "Brown Luke",
-    "address": "01 Cordelia Street, Southbane 4101",
-    "status": "active"
-    },
+  "posts": [
     {
-    "name": "Brown Luke",
-    "address": "01 Cordelia Street, Southbane 4101",
-    "status": "inactive"
-   }
-  ]
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
